@@ -83,3 +83,10 @@ Desktop.ini
 
 # VS Code
 .vscode/
+
+# Large binary asset folders (too large for GitHub)
+Assets/TerrainSampleAssets/
+
+# Raw uncompressed textures
+*.tif
+*.tiff
