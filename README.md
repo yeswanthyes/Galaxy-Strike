@@ -45,11 +45,7 @@ To run the project locally on your machine:
 > ⚠️ **Note on Assets:** To keep this GitHub repository within size limits, large uncompressed binary assets (like raw `.tif` textures and `TerrainSampleAssets`) are excluded via `.gitignore`. 
 
 ## 📸 Screenshots / Previews
-*(Add some awesome screenshots or GIFs of your game here!)*
-<!-- Example:
-<img src="link-to-your-image.png" width="600" alt="Gameplay Screenshot"/>
--->
-
+soon.........
 ## 🤝 Contributing
 Contributions, bug reports, and feature requests are welcome! 
 Feel free to check the [issues page](https://github.com/yeswanthyes/Galaxy-Strike/issues) if you want to contribute.
